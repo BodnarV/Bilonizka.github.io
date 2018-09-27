@@ -1,0 +1,27 @@
+body{
+background-image: url(background_tekstura_widescreen_wallpapers_igra_sveta_cveta_1920x1080.jpg);
+}
+#test{
+  background-color: chartreuse;
+    color:white;
+    padding: 19px;
+    margin: 19px;
+    border: 7px solid black;
+    border-radius: 100px;
+    text-align: center;
+    opacity: 0.9;
+    font-size: 57px;
+    
+}
+.naz{
+  display: block;
+    margin: auto;
+}
+.h1{
+    text-align: center;
+    color: azure;
+    font-size: 50px;
+}
+.zao{
+border-radius: 40px;
+}
